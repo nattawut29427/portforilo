@@ -17,7 +17,7 @@ export default function Home() {
 
         {/* Footer Links */}
         <div className="flex  font-body  flex-col sm:flex-row justify-center sm:justify-between z-20 gap-16 pr-20 pl-3 text-white text-xs sm:text-sm absolute bottom-24 font-metrophobic">
-          <p>ABOUT ME</p>
+          <p className="hover:cursor-pointer">ABOUT ME</p>
           <p>MY PROJECT</p>
           <p>CONTACT</p>
           <p>RESUME</p>
