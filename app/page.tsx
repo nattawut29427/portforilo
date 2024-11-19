@@ -1,4 +1,10 @@
-export default function Home() {
+
+
+export default async function Home() {
+
+  
+
+
   return (
     <>
       <div className="bg-[#0E1111]  font-body w-screen h-screen relative overflow-hidden flex flex-col justify-center items-center">
